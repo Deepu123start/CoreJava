@@ -1,0 +1,175 @@
+2017-02-26 07:54:22,748 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bellinf.batch4.mvc:bellinfo-mvc-flow:0.0.1-SNAPSHOT @ C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\pom.xml.
+2017-02-26 07:54:29,743 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bellinfo-mvc-flow-master/src/main/java
+2017-02-26 07:54:29,743 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bellinfo-mvc-flow-master/src/main/resources
+2017-02-26 07:54:29,743 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bellinf.batch4.mvc:bellinfo-mvc-flow:0.0.1-SNAPSHOT @ C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\pom.xml.
+2017-02-26 07:54:29,790 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bellinfo-mvc-flow-master/src/test/java
+2017-02-26 07:54:30,587 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2017-02-26 07:54:32,536 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bellinf.batch4.mvc:bellinfo-mvc-flow:0.0.1-SNAPSHOT @ C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\pom.xml.
+2017-02-26 07:54:33,802 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 07:54:33,822 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 07:54:33,835 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 07:54:33,836 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 07:55:48,898 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 07:55:48,898 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-26 07:55:48,898 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 07:55:48,898 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 08:03:29,875 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 08:03:29,875 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 08:03:29,875 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 08:03:29,875 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 08:13:11,448 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bellinf.batch4:bacth4-servlets-jdbc-program:0.0.1-SNAPSHOT @ C:\Users\deept\Downloads\Java\bacth4-servlets-jdbc-program-master\bacth4-servlets-jdbc-program-master\pom.xml.
+2017-02-26 08:13:11,848 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bacth4-servlets-jdbc-program/src/main/java
+2017-02-26 08:13:11,848 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bacth4-servlets-jdbc-program/src/test/java
+2017-02-26 08:13:12,491 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bellinf.batch4:bacth4-servlets-jdbc-program:0.0.1-SNAPSHOT @ C:\Users\deept\Downloads\Java\bacth4-servlets-jdbc-program-master\bacth4-servlets-jdbc-program-master\pom.xml.
+2017-02-26 08:13:13,079 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2017-02-26 08:13:13,524 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-26 08:13:13,528 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bacth4-servlets-jdbc-program-master\bacth4-servlets-jdbc-program-master\src\main\resources
+2017-02-26 08:13:13,531 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-26 08:13:13,534 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bacth4-servlets-jdbc-program-master\bacth4-servlets-jdbc-program-master\src\test\resources
+2017-02-26 08:13:14,406 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bellinf.batch4:bacth4-servlets-jdbc-program:0.0.1-SNAPSHOT @ C:\Users\deept\Downloads\Java\bacth4-servlets-jdbc-program-master\bacth4-servlets-jdbc-program-master\pom.xml.
+2017-02-26 08:13:14,654 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-26 08:13:14,654 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bacth4-servlets-jdbc-program-master\bacth4-servlets-jdbc-program-master\src\main\resources
+2017-02-26 08:13:14,654 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-26 08:13:14,654 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bacth4-servlets-jdbc-program-master\bacth4-servlets-jdbc-program-master\src\test\resources
+2017-02-26 08:20:23,271 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 08:20:23,286 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 08:20:23,286 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 08:20:23,286 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 09:30:49,452 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:30:49,452 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 09:30:49,456 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:30:49,456 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 09:30:52,133 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:30:52,133 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 09:30:52,133 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:30:52,133 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 09:30:55,485 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:30:55,486 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 09:30:55,488 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:30:55,488 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 09:31:04,950 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:31:04,950 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-26 09:31:04,954 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:31:04,954 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 09:36:07,872 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-02-26 09:36:14,962 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master
+2017-02-26 09:36:14,962 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2017-02-26 09:37:49,153 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bellinf.batch4.mvc:bellinfo-mvc-flow:0.0.1-SNAPSHOT @ C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\pom.xml.
+2017-02-26 09:37:50,123 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:37:50,123 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-26 09:37:50,123 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:37:50,123 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 09:37:56,139 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-02-26 09:38:05,673 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master
+2017-02-26 09:38:05,673 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e clean install
+2017-02-26 09:39:03,340 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bellinf.batch4.mvc:bellinfo-mvc-flow:0.0.1-SNAPSHOT @ C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\pom.xml.
+2017-02-26 09:39:04,722 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:39:04,722 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-26 09:39:04,726 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:39:04,727 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 09:39:12,652 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-02-26 09:39:26,405 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master
+2017-02-26 09:39:26,405 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e clean install
+2017-02-26 09:40:06,582 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bellinf.batch4.mvc:bellinfo-mvc-flow:0.0.1-SNAPSHOT @ C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\pom.xml.
+2017-02-26 09:40:07,541 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:40:07,542 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 09:40:07,545 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:40:07,545 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 09:40:16,365 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-02-26 09:40:25,531 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master
+2017-02-26 09:40:25,531 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B  clean install
+2017-02-26 09:43:55,964 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-26 09:43:55,964 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bacth4-servlets-jdbc-program-master\bacth4-servlets-jdbc-program-master\src\main\resources
+2017-02-26 09:43:55,964 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-26 09:43:55,968 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bacth4-servlets-jdbc-program-master\bacth4-servlets-jdbc-program-master\src\test\resources
+2017-02-26 09:43:56,423 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:43:56,427 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 09:43:56,435 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:43:56,435 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 09:44:14,252 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-02-26 09:44:22,682 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master
+2017-02-26 09:44:22,682 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -X -e clean install
+2017-02-26 09:44:56,830 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:44:56,832 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 09:44:56,832 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:44:56,832 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 09:53:34,508 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:53:34,509 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 09:53:34,510 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:53:34,511 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 09:55:53,683 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:55:53,683 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 09:55:53,687 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:55:53,687 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 09:56:44,569 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:56:44,569 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 09:56:44,569 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 09:56:44,569 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 10:05:01,726 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:05:01,726 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 10:05:01,726 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:05:01,726 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 10:08:08,824 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:08:08,825 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-26 10:08:08,827 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:08:08,828 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 10:12:47,672 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:12:47,672 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-26 10:12:47,672 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:12:47,672 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 10:22:44,905 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:22:44,909 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 10:22:44,909 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:22:44,909 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 10:25:29,789 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:25:29,789 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 10:25:29,793 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:25:29,793 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 10:29:13,410 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:29:13,414 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 10:29:13,414 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:29:13,414 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 10:35:49,600 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:35:49,600 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 10:35:49,604 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:35:49,604 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 10:35:54,322 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:35:54,322 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 10:35:54,326 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:35:54,326 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 10:36:59,474 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:36:59,478 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-26 10:36:59,478 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:36:59,478 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 10:37:49,587 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:37:49,587 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 10:37:49,591 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:37:49,591 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 10:46:39,686 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:46:39,687 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 10:46:39,688 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:46:39,689 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 10:52:27,490 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:52:27,490 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 10:52:27,490 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:52:27,490 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 10:56:31,943 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:56:31,947 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 10:56:31,947 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 10:56:31,947 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 11:52:51,840 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 11:52:51,841 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 11:52:51,842 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 11:52:51,843 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 12:04:37,756 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 12:04:37,758 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 12:04:37,759 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 12:04:37,759 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 12:34:25,206 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 12:34:25,208 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 12:34:25,209 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 12:34:25,209 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
+2017-02-26 12:41:29,209 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 12:41:29,210 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-26 12:41:29,211 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 12:41:29,211 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\deept\Downloads\Java\bellinfo-mvc-flow-master\bellinfo-mvc-flow-master\src\test\resources
