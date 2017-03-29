@@ -1,0 +1,2 @@
+Size.student.name=Name should be minimum of {1} and maximum of {2}. Got it
+NotNull.student.name = Blank data doesn't accept. Please provide name;

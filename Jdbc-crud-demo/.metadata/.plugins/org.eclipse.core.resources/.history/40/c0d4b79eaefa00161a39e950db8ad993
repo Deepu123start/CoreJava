@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="bacth4-servlets-jdbc-program">
+        <property name="context-root" value="bacth4-servlets-jdbc-program"/>
+    </wb-module>
+</project-modules>

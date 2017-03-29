@@ -1,0 +1,4 @@
+Size.student.name=Name should be minimum of {4} and maximum of {15}. Got it
+NotNull.student.name = Blank data doesn't accept. Please provide name;
+NotNull.student.fee= Blank data doesn't accept. Please provide fee;
+NotNull.student.year= Blank data doesn't accept. Please provide year;
